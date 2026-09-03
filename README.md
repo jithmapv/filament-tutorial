@@ -194,7 +194,3 @@ Format code using Laravel Pint:
 - [Filament Documentation](https://filamentphp.com/docs)
 - [Filament Tricks](https://filamentphp.com/tricks)
 - [Laravel Bootcamp](https://bootcamp.laravel.com)
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
